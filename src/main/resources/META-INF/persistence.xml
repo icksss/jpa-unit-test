@@ -8,6 +8,10 @@
 
     <persistence-unit name="test" transaction-type="RESOURCE_LOCAL">
         <class>jpastart.reserve.model.User</class>
+        <class>jpastart.reserve.model.Review</class>
+        <class>jpastart.reserve.model.IdSeq</class>
+        <class>jpastart.reserve.model.AccessLog</class>
+        
 
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
 
