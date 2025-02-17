@@ -17,6 +17,8 @@
         <class>jpastart.reserve.model.Role</class>
         <class>jpastart.reserve.model.RoleObject</class>
         <class>jpastart.reserve.model.GrantedPermission</class>
+        <class>jpastart.reserve.model.Question</class>
+        <class>jpastart.reserve.model.Choice</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
 
         <properties>
