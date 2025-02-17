@@ -14,7 +14,9 @@
         <class>jpastart.reserve.model.Writer</class>
         <class>jpastart.reserve.model.Intro</class>
         <class>jpastart.reserve.model.Address</class>
-
+        <class>jpastart.reserve.model.Role</class>
+        <class>jpastart.reserve.model.RoleObject</class>
+        <class>jpastart.reserve.model.GrantedPermission</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
 
         <properties>
