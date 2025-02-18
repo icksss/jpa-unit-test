@@ -19,6 +19,7 @@
         <class>jpastart.reserve.model.GrantedPermission</class>
         <class>jpastart.reserve.model.Question</class>
         <class>jpastart.reserve.model.Choice</class>
+        <class>jpastart.reserve.model.Notice</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
 
         <properties>
