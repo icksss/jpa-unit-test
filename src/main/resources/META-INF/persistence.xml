@@ -11,8 +11,15 @@
         <class>jpastart.reserve.model.Review</class>
         <class>jpastart.reserve.model.IdSeq</class>
         <class>jpastart.reserve.model.AccessLog</class>
-        
-
+        <class>jpastart.reserve.model.Writer</class>
+        <class>jpastart.reserve.model.Intro</class>
+        <class>jpastart.reserve.model.Address</class>
+        <class>jpastart.reserve.model.Role</class>
+        <class>jpastart.reserve.model.RoleObject</class>
+        <class>jpastart.reserve.model.GrantedPermission</class>
+        <class>jpastart.reserve.model.Question</class>
+        <class>jpastart.reserve.model.Choice</class>
+        <class>jpastart.reserve.model.Notice</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
 
         <properties>
